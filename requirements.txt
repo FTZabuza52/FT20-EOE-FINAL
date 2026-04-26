@@ -1,4 +1,3 @@
-cmake
 streamlit
 face-recognition
 opencv-python-headless
